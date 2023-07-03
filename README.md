@@ -1,10 +1,3 @@
-##
-
-
-<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvendramim&hide_progress=false&layout=pie%&theme=radical"/> 
-
-
-##
 
 
 <div> 
