@@ -6,3 +6,5 @@
 </div>
 
 ##
+
+[Snake animation](https://github.com/Gvendramim/Gvendramim/blob/output/github-contribution-grid-snake.svg)
