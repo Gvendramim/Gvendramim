@@ -3,7 +3,7 @@
 👋 Hi, I'm Gabriel Vendramim, **Frontend Developer** with a strong focus on crafting responsive, user-friendly web interfaces. With experience in **HTML, CSS, JavaScript**, and modern frameworks like **React** and **Angular**.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, PHP
 - **Frameworks**: React, Angular 17+
 - **Libraries**: Redux, TailwindCSS, Bootstrap
 
