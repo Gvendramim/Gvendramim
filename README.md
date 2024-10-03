@@ -11,6 +11,7 @@
 - **Java** and **Spring** for backend development, focusing on building robust web applications.
 - Further enhancing my **React** skills to create more dynamic.
 
+<br>
 
 <div> 
   <a href="https://instagram.com/gvendramim_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-   badge&logo=instagram&logoColor=white" target="_blank"></a>
