@@ -1,6 +1,6 @@
 # Gabriel Vendramim - Frontend Developer
 
-👋 Hi, I'm Gabriel Vendramim, a passionate **Frontend Developer** with a strong focus on crafting responsive, user-friendly web interfaces. With experience in **HTML, CSS, JavaScript**, and modern frameworks like **React** and **Angular**, I aim to deliver high-quality solutions that enhance the user experience.
+👋 Hi, I'm Gabriel Vendramim, **Frontend Developer** with a strong focus on crafting responsive, user-friendly web interfaces. With experience in **HTML, CSS, JavaScript**, and modern frameworks like **React** and **Angular**, I aim to deliver high-quality solutions that enhance the user experience.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
