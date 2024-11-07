@@ -22,9 +22,5 @@
   </a>
 </div>
 
-![GitHub contributors](https://img.shields.io/github/contributors/Gvendramim/README.md)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Gvendramim/README.md)
-
-
 ##
 
