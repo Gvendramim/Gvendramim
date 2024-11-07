@@ -14,13 +14,14 @@
 <br>
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://instagram.com/gvendramim_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/gvendramim_" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/gvendramim" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gvendramim" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
   </a>
 </div>
+
 
 
 ##
