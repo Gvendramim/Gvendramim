@@ -5,7 +5,7 @@
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, PHP
 - **Frameworks**: React, Angular 17+
-- **Libraries**: Redux, TailwindCSS, Bootstrap
+- **Libraries**: TailwindCSS, Bootstrap
 
 ## 🌱 What I'm Learning
 - **Java** and **Spring** for backend development, focusing on building robust web applications.
