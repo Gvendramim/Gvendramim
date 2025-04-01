@@ -8,7 +8,7 @@
 - **Libraries**: TailwindCSS, Bootstrap
 
 ## 🌱 What I'm Learning
-- Further enhancing my **React** skills to create more dynamic.
+- Further improving my **React** skills while exploring the Backend world with **Java**.
 
 <br>
 
