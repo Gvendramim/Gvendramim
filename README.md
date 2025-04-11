@@ -8,7 +8,7 @@
 - **Libraries**: TailwindCSS, Bootstrap
 
 ## 🌱 What I'm Learning
-- Further improving my **React** skills while exploring the Backend world with **Python**.
+- Further improving my **React** skills while exploring the Backend world
 
 <br>
 
