@@ -10,13 +10,11 @@
 ## 🌱 What I'm Learning
 - Further improving my **React** skills while exploring the Backend world
 
-<br>
-
-<div>
-<a href="https://github.com/Gvendramim">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvendramim&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Gvendramim&show_icons=true&theme=dracula&count_private=true" height="180em"/>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvendramim&layout=compact&langs_count=7&theme=dracula" height="180em"/>
 </div>
 
-
-##
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gvendramim&include_all_commits=true&count_private=true&show_icons=true&custom_title=Gabriel%20Vendramim's%20GitHub%20Stats&theme=dark" />
+</div>
